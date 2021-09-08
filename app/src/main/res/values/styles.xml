@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MAIN_TEXT_VIEW">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">36dp</item>
+        <item name="android:textColor">@color/greyyyy</item>
+    </style>
+
+    <style name="button_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">40dp</item>
+        <item name="android:textColor">#65AF7A</item>
+    </style>
+</resources>
